@@ -1,4 +1,4 @@
-# Horion 
+# Horion Edited
 
 **Horion** is a minecraft bedrock edition utility mod designed to enhance a users gameplay.
 If you want to contribute to this project, feel free to fork this repository and submit a pull request.
